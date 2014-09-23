@@ -1,3 +1,3 @@
 Qriaideias wp8
 ==============
-Descompactar ob.rar antes de correr o sln
+Descompactar obj.rar antes de correr o sln
